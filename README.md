@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me : @pratiksunilmagdum2021@gmail.com
-- 😄 Pronouns: PM 
+
 
 
 <!---
