@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @pratikmagdum4<br>👀 I’m passionate about Natural Language Processing and Machine Learning<br>🌱 Currently learning React<br>💞️ Looking to collaborate on Full Stack Projects<br>📫 Reach me at: pratiksunilmagdum2021@gmail.com
+👋 Hi, I’m @pratikmagdum4<br>👀 I’m passionate about Natural Language Processing and Machine Learning<br>🌱 Currently learning Next.js<br>💞️ Looking to collaborate on Full Stack Projects<br>📫 Reach me at: pratiksunilmagdum2021@gmail.com
 
 
 ## 🌐 Socials:
